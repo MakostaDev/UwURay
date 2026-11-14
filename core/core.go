@@ -25,8 +25,8 @@ var (
 
 var (
 	build    = "Custom"
-	codename = "Xray, Penetrates Everything."
-	intro    = "A unified platform for anti-censorship."
+	codename = "UwU, Penetrates Everything."
+	intro    = "A cute fork of Xray-core."
 )
 
 func init() {
